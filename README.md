@@ -14,7 +14,7 @@ This is a git repository containing git templates for the development of a Nextf
 i. Clone the workflow
 
 ```bash
-git clone https://gitlab.ifremer.fr/bioinfo/workflows/nextflow-git-template
+git clone https://github.com/esthercrs/nextflow-template.git
 cd nextflow-git-template
 ```
 
